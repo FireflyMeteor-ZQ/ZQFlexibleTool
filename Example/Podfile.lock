@@ -1,18 +1,14 @@
 PODS:
-  - ESTabBarController-swift (2.8.0)
   - TangramKit (1.4.2)
   - ZQFlexibleTool (1.0.0):
-    - ESTabBarController-swift
     - TangramKit (= 1.4.2)
 
 DEPENDENCIES:
-  - ESTabBarController-swift
   - TangramKit (= 1.4.2)
   - ZQFlexibleTool (from `..`)
 
 SPEC REPOS:
   trunk:
-    - ESTabBarController-swift
     - TangramKit
 
 EXTERNAL SOURCES:
@@ -20,10 +16,9 @@ EXTERNAL SOURCES:
     :path: ".."
 
 SPEC CHECKSUMS:
-  ESTabBarController-swift: 05593a6ad64700b03c0eb60ff625916370aa4136
   TangramKit: aad3ab8f9617418c9da96d59cddd71134ae8af83
-  ZQFlexibleTool: aed8fd7f3ddb372f81242e251fc75e7ee7f22269
+  ZQFlexibleTool: 8f7654a2bdbed405589eb35f6f7f87bb401270d0
 
-PODFILE CHECKSUM: 7c8c974be7f33d472416cd5603eb9f2c9a85214b
+PODFILE CHECKSUM: 4e48e2e72dceb0bd8571b8b177ba954f35d8474b
 
 COCOAPODS: 1.14.2
