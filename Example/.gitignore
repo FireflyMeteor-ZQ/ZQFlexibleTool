@@ -1,0 +1,5 @@
+Pods/
+DerivedData/
+xcuserdata/
+*.xcworkspace
+*.moved-aside
